@@ -3132,32 +3132,12 @@ body {
   color: #c1c1c1 !important;
 }
 .cid-qMlpi5fBKl {
-  padding-top: 60px;
+  padding-top: 120px;
   padding-bottom: 60px;
-  background-image: url("../../../assets/images/jumbotron.jpg");
+  background-image: url("../../../assets/images/maxresdefault-1920x1080.jpg");
 }
-.cid-qMlpjn4Qr2 {
-  padding-top: 30px;
-  padding-bottom: 30px;
-  background-color: #ffffff;
-}
-.cid-qMlpjn4Qr2 .line {
-  background-color: #149dcc;
-  color: #149dcc;
-  align: center;
-  height: 2px;
-  margin: 0 auto;
-}
-.cid-qMlpjn4Qr2 .section-text {
-  padding: 2rem 0;
-}
-.cid-qMlpjn4Qr2 .inner-container {
-  margin: 0 auto;
-}
-@media (max-width: 768px) {
-  .cid-qMlpjn4Qr2 .inner-container {
-    width: 100% !important;
-  }
+.cid-qMlpi5fBKl H2 {
+  color: #cc2952;
 }
 .cid-qMlpqEITfy {
   padding-top: 60px;
