@@ -3222,6 +3222,30 @@ body {
   height: 40px;
   border-radius: 50%;
 }
+.cid-qMtRabrEhj {
+  background-image: url("../../../assets/images/background1.jpg");
+}
+.cid-qMtRabrEhj h1 {
+  color: #616161;
+}
+.cid-qMtRabrEhj h2,
+.cid-qMtRabrEhj h3,
+.cid-qMtRabrEhj p {
+  color: #767676;
+}
+.cid-qMtRabrEhj .mbr-section-subtitle {
+  font-style: italic;
+}
+.cid-qMtSuiw9fQ {
+  background-image: url("../../../assets/images/background2.jpg");
+}
+.cid-qMtSuiw9fQ .mbr-section-subtitle {
+  letter-spacing: .2rem;
+}
+.cid-qMtSuiw9fQ .mbr-text,
+.cid-qMtSuiw9fQ .mbr-section-btn {
+  text-align: left;
+}
 .cid-qMnFLBu1r2 {
   padding-top: 60px;
   padding-bottom: 60px;
