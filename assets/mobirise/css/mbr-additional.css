@@ -21,10 +21,10 @@ body {
 }
 .display-1 {
   font-family: 'Rubik', sans-serif;
-  font-size: 6rem;
+  font-size: 5rem;
 }
 .display-1 > .mbr-iconfont {
-  font-size: 9.6rem;
+  font-size: 8rem;
 }
 .display-2 {
   font-family: 'Rubik', sans-serif;
@@ -61,9 +61,9 @@ body {
 /* 0.65 - min scale variable, may vary */
 @media (max-width: 768px) {
   .display-1 {
-    font-size: 4.8rem;
-    font-size: calc( 2.75rem + (6 - 2.75) * ((100vw - 20rem) / (48 - 20)));
-    line-height: calc( 1.4 * (2.75rem + (6 - 2.75) * ((100vw - 20rem) / (48 - 20))));
+    font-size: 4rem;
+    font-size: calc( 2.4rem + (5 - 2.4) * ((100vw - 20rem) / (48 - 20)));
+    line-height: calc( 1.4 * (2.4rem + (5 - 2.4) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-2 {
     font-size: 2.4rem;
@@ -3142,6 +3142,9 @@ body {
 .cid-qMlpi5fBKl H2 {
   color: #cc2952;
 }
+.cid-qMlpi5fBKl .mbr-section-subtitle {
+  color: #149dcc;
+}
 .cid-qMlpqEITfy {
   padding-top: 60px;
   padding-bottom: 60px;
@@ -3149,6 +3152,75 @@ body {
 }
 .cid-qMlpqEITfy .mbr-text {
   color: #767676;
+}
+.cid-qMtMZ1OGeV {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+.cid-qMtMZ1OGeV .counter-container {
+  color: #767676;
+}
+.cid-qMtMZ1OGeV .counter-container ul {
+  margin-bottom: 0;
+}
+.cid-qMtMZ1OGeV .counter-container ul li {
+  margin-bottom: 1rem;
+  list-style: none;
+}
+.cid-qMtMZ1OGeV .counter-container ul li:before {
+  position: absolute;
+  left: 0px;
+  margin-top: -10px;
+  padding-top: 3px;
+  content: '';
+  display: inline-block;
+  text-align: center;
+  margin: 5px 10px;
+  line-height: 20px;
+  transition: all .2s;
+  color: #ffffff;
+  background: #149dcc;
+  width: 25px;
+  height: 25px;
+  border-radius: 50%;
+  content: '✓';
+}
+.cid-qMtPSCPwK4 {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+.cid-qMtPSCPwK4 .counter-container {
+  color: #767676;
+}
+.cid-qMtPSCPwK4 .counter-container ol {
+  margin-bottom: 0;
+  counter-reset: myCounter;
+}
+.cid-qMtPSCPwK4 .counter-container ol li {
+  margin-bottom: 1rem;
+}
+.cid-qMtPSCPwK4 .counter-container ol li {
+  list-style: none;
+  padding-left: .5rem;
+}
+.cid-qMtPSCPwK4 .counter-container ol li:before {
+  position: absolute;
+  left: 0px;
+  margin-top: -10px;
+  counter-increment: myCounter;
+  content: counter(myCounter);
+  display: inline-block;
+  text-align: center;
+  margin: 5px 10px;
+  line-height: 40px;
+  transition: all .2s;
+  color: #ffffff;
+  background: #149dcc;
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
 }
 .cid-qMnFLBu1r2 {
   padding-top: 60px;
