@@ -1757,12 +1757,11 @@ body {
   background-image: url("../../../assets/images/mbr-864x1080.jpg");
 }
 .cid-qMKiHIZMvM {
-  padding-top: 60px;
-  padding-bottom: 60px;
-  background: #ffffff;
+  background: #232323;
 }
 .cid-qMKiHIZMvM .video-block {
   margin: auto;
+  width: 100% !important;
 }
 @media (max-width: 768px) {
   .cid-qMKiHIZMvM .video-block {
