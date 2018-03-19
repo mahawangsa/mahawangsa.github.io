@@ -1756,6 +1756,19 @@ body {
 .cid-qMidThVtaK {
   background-image: url("../../../assets/images/mbr-864x1080.jpg");
 }
+.cid-qMKiHIZMvM {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background: #ffffff;
+}
+.cid-qMKiHIZMvM .video-block {
+  margin: auto;
+}
+@media (max-width: 768px) {
+  .cid-qMKiHIZMvM .video-block {
+    width: 100% !important;
+  }
+}
 .cid-qMjrwISZpx {
   padding-top: 90px;
   padding-bottom: 90px;
