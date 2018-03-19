@@ -1792,13 +1792,12 @@ body {
   color: #6300ff;
 }
 .cid-qMKe6vtaNI {
-  padding-top: 60px;
-  padding-bottom: 60px;
   background: #f7ed4a;
   background: linear-gradient(45deg, #f7ed4a, #f9f295);
 }
 .cid-qMKe6vtaNI .video-block {
   margin: auto;
+  width: 100% !important;
 }
 @media (max-width: 768px) {
   .cid-qMKe6vtaNI .video-block {
