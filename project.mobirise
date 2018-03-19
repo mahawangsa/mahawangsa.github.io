@@ -1,9 +1,9 @@
 {
   "settings": {
     "name": "MPM",
-    "currentPage": "page1.html",
+    "currentPage": "page4.html",
     "versionFirst": "4.0.14",
-    "uniqCompNum": 53,
+    "uniqCompNum": 55,
     "versionPublish": "4.6.6",
     "theme": {
       "name": "mobirise4",
@@ -3038,6 +3038,63 @@
           "_global": true,
           "_once": "menu",
           "_params": {}
+        },
+        {
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            "@media (min-width: 992px)": {
+              ".mbr-figure": {
+                "padding-right": "4rem"
+              }
+            },
+            "@media (max-width: 992px)": {
+              ".mbr-figure": {
+                "padding-bottom": "1rem"
+              }
+            },
+            ".mbr-text": {
+              "color": "#767676"
+            }
+          },
+          "_name": "content6",
+          "_customHTML": "<section class=\"mbr-section content6\" group=\"Article\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n      <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"6\">\n      <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n\n      <input type=\"range\" inline title=\"Media Size\" name=\"mediaSize\" min=\"10\" max=\"200\" step=\"5\" value=\"60\">\n      <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n    \n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"col-12 col-md-8\">\n                <div class=\"media-container-row\">\n                    <div class=\"mbr-figure\" mbr-style=\"{'width': mediaSize + '%'}\">\n                      <img src=\"@PROJECT_PATH@/assets/images/picture1-422x268.png\" alt=\"Mobirise\" title>  \n                    </div>\n                    <div class=\"media-content\">\n                        <div class=\"mbr-section-text\">\n                            <p class=\"mbr-text mb-0 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\">Perdana Menteri, Datuk Seri Najib Razak, berkeyakinan bahawa bangsa Melayu akan terus melangkah menjadi bangsa yang disegani di mata dunia.\n<br>\n<br>Beliau menzahirkan keyakinan itu berdasarkan semangat yang ditunjukkan hadirin terutamanya golongan belia yang bersama-sama dengannya pada Perhimpunan Perpaduan Melayu di Bukit Jalil, malam tadi.\n<br>\n<br>\"Namun, Melayu tidak harus leka, Melayu perlu terus melangkah maju dan berdikari. Kita perlu tingkatkan usaha kita melatih orang Melayu menjadi bangsa berpengetahuan dan mengukuhkan ekonomi mereka.\n<br>\n<br>\"Kita perlu memperjuang kepentingan agama Islam dan syiarnya; mempertahan institusi Raja Melayu dan keistimewaan orang Melayu; menegakkan maqasid syariah dengan bersikap sederhana; menjaga nilai-nilai murni; dan menjaga institusi keluarga,\" katanya menerusi catatan terbaru di dalam laman Twitternya hari ini.\n<br>\n<br>Najib berkata, panduan ini wajar menjadi wadah dan maslahah yang akan terus diperjuangkan dan digunakan untuk memajukan bangsa Melayu.\n<br>Perdana Menteri turut yakin bahawa seandainya bangsa Melayu mengekalkan keutuhan perpaduan dalam kalangan mereka dan berusaha ke arah memajukan bangsa, tiada apa yang tidak mampu dikecapi bersama.\n<br>Malam tadi, Najib menghadiri dan menyampaikan amanat pada majlis perhimpunan itu di Stadium Putra Bukit Jalil, di sini yang dihadiri ribuan peserta.\n<br>\n<br></p>\n                        </div>\n                    </div>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_cid": "qMJLeRxGaX",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {},
+          "_anchor": "content6-1h"
+        },
+        {
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            "@media (min-width: 992px)": {
+              ".mbr-figure": {
+                "padding-left": "4rem"
+              }
+            },
+            "@media (max-width: 992px)": {
+              ".mbr-figure": {
+                "padding-top": "1rem"
+              }
+            },
+            ".mbr-text": {
+              "color": "#767676",
+              "text-align": "left"
+            }
+          },
+          "_name": "content7",
+          "_customHTML": "<section class=\"mbr-section content7\" group=\"Article\">\n          \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->   \n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Media Size\" name=\"mediaSize\" min=\"10\" max=\"200\" step=\"5\" value=\"60\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"col-12 col-md-8\">\n                <div class=\"media-container-row\">\n                    <div class=\"media-content\">\n                        <div class=\"mbr-section-text\">\n                            <p class=\"mbr-text align-right mb-0 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\">Perpaduan Melayu Tarik Ribuan Peserta\n<br>Ribuan belia dan veteran Melayu berkumpul di Stadium Putra, Bukit Jalil di sini untuk menghadiri Perhimpunan Gerakan Perpaduan Melayu bertujuan memperkukuh saf perpaduan dalam memperkasa masyarakat Melayu.\n<br>Ada yang menempuh perjalanan beratus kilometer untuk ke lokasi itu bagi sama-sama menjayakan agenda utama perhimpunan malam ini yang menurut penganjur adalah ke arah menghidupkan semula perpaduan dan menyemarakkan kembali kehebatan Melayu.\n<br>\n<br>Acara yang diserikan dengan kehadiran jemputan terdiri daripada kalangan pemimpin ulung Melayu antaranya Perdana Menteri Datuk Seri Najib Tun Razak itu dijadual bermula dengan solat Maghrib berjemaah.\n<br>\n<br>Kemuncak perhimpunan itu, Najib dijadual menyampaikan amanat khas yang mesej terkandung di dalamnya bukan sahaja untuk dihayati hadirin di stadium malah umat Melayu yang mementingkan perpaduan di seluruh negara.\n<br>Perhimpunan itu turut dimuatkan dengan acara Pelancaran Agenda-Agenda Besar Abad Ke-21, Upacara Menandatangani Waad Melayu Abad Ke-21, Mandat Pemimpin Melayu dan Pelancaran Sekretariat Tetap Gerakan Renaisans Melayu.&nbsp;<br></p>\n                        </div>\n                    </div>\n                    <div class=\"mbr-figure\" mbr-style=\"{'width': mediaSize + '%'}\">\n                     <img src=\"@PROJECT_PATH@/assets/images/picture1-436x232.png\" alt=\"Mobirise\" title>  \n                    </div>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_cid": "qMJLMurNh2",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {},
+          "_anchor": "content7-1i"
         }
       ]
     },
