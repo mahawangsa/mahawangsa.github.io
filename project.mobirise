@@ -2481,7 +2481,7 @@
               "background-image": "url(@bg-value)"
             },
             "H2": {
-              "color": "#cc2952"
+              "color": "#ffffff"
             },
             ".mbr-section-subtitle": {
               "color": "#149dcc"
